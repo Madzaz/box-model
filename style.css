@@ -1,0 +1,7 @@
+.divElement {
+  width: 100px;
+  height: 100px;
+  background-color: #ccc;
+  margin: 5px;
+  display: inline-block;
+}
